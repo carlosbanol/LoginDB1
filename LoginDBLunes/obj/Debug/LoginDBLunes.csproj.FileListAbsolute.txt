@@ -1,0 +1,10 @@
+C:\Users\Carlos Banol\source\repos\LoginDBLunes\LoginDBLunes\bin\Debug\LoginDBLunes.exe.config
+C:\Users\Carlos Banol\source\repos\LoginDBLunes\LoginDBLunes\bin\Debug\LoginDBLunes.exe
+C:\Users\Carlos Banol\source\repos\LoginDBLunes\LoginDBLunes\bin\Debug\LoginDBLunes.pdb
+C:\Users\Carlos Banol\source\repos\LoginDBLunes\LoginDBLunes\obj\Debug\LoginDBLunes.csproj.AssemblyReference.cache
+C:\Users\Carlos Banol\source\repos\LoginDBLunes\LoginDBLunes\obj\Debug\LoginDBLunes.Form1.resources
+C:\Users\Carlos Banol\source\repos\LoginDBLunes\LoginDBLunes\obj\Debug\LoginDBLunes.Properties.Resources.resources
+C:\Users\Carlos Banol\source\repos\LoginDBLunes\LoginDBLunes\obj\Debug\LoginDBLunes.csproj.GenerateResource.cache
+C:\Users\Carlos Banol\source\repos\LoginDBLunes\LoginDBLunes\obj\Debug\LoginDBLunes.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Banol\source\repos\LoginDBLunes\LoginDBLunes\obj\Debug\LoginDBLunes.exe
+C:\Users\Carlos Banol\source\repos\LoginDBLunes\LoginDBLunes\obj\Debug\LoginDBLunes.pdb
